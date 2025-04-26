@@ -12,8 +12,8 @@ int main() {
     }
 
     // Create tables and populate rooms
-    h.setupTables();
-    h.populateRooms();
+    //h.setupTables();
+    //h.populateRooms();
 
     // Now you can start implementing your hotel management logic
     // Example: checking available rooms
